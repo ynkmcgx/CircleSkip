@@ -10,5 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //CircleSkip first push on git
+
+        //测试Github提交代码
     }
 }
